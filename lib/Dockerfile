@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/STAR-KING0/Queen_Alya  /root/STAR-KING0
-WORKDIR /root/STAR-KING0/
+RUN git clone https://github.com/sircylee/Queen_Kylie-V1  /root/sircylee
+WORKDIR /root/sircylee/
 
 
 COPY package.json .
