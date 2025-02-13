@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/3buokh.jpg" alt="Queen_Kylie-V1 Banner" width="450" style="border-radius: 15px;"/>
+  <img src="https://files.catbox.moe/lt92j5.mp4" alt="Queen_Kylie-V1 Banner" width="450" style="border-radius: 15px;"/>
 </p>
 
  <p align="center">
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## ```Connect With Me```<img src="https://files.catbox.moe/g3wwyk.jpg" width ="80"></h1> 
+## ```Connect With Me```<img src="https://files.catbox.moe/dhrill.jpg" width ="80"></h1> 
 <br>
 <p align="center">
 <a href="https://wa.me/27615045572"><img src="https://img.shields.io/badge/Contact Cadillac Cylee-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -113,6 +113,6 @@ SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07
 ### Please Give One Star ✨ & [follow me notify my updates 👸❤️🧸](https://github.com/errrbodyhatescylee)
 <b>Version -> 1.0.0</b>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/purbus.jpg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
   ## ENJOY!!!;
