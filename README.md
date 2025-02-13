@@ -102,7 +102,7 @@
   #### ```Kylie PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/cylee/count.svg)
 
-<a><img src='https://files.catbox.moe/olcl5p.jpg'/></a><a><img src='https://files.catbox.moe/1f0ool.jpg'/></a>
+<a><img src='https://files.catbox.moe/purbus.jpg'/></a><a><img src='https://files.catbox.moe/dhrill.jpg'/></a>
 
 
 ## Support ME 👸❤️🧸
@@ -113,6 +113,6 @@ SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07
 ### Please Give One Star ✨ & [follow me notify my updates 👸❤️🧸](https://github.com/errrbodyhatescylee)
 <b>Version -> 1.0.0</b>
 
-<a><img src='https://files.catbox.moe/purbus.jpg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/zz41z0.png'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
   ## ENJOY!!!;
