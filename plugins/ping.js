@@ -24,11 +24,9 @@ smd(
     // Prepare final message with "Pong!", uptime, and latency
     const finalMessage = `
 🤖 *Pong!*
-
+*BOT NAME : QUEEN_KYLIE-V1* 👸❤️🧸 
 *Latency:* ${latency}ms
 *Uptime:* ${uptime}
-
-
 == |👸|Powered By kylie|👸| ==
     `;
 
