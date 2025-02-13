@@ -13,7 +13,7 @@ global.allowJids = process.env.ALLOW_JID || "true";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Johannesburg";
-global.github = process.env.GITHUB || "https://github.com/errrbodyhatescylee/Queen_Kylie-V1";
+global.github = process.env.GITHUB || "https://github.com/sircylee/Queen_Kylie-V1";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/purbus.jpg";
@@ -53,7 +53,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "Kylie",
   packname: process.env.PACK_NAME || "Sir Cylee",
   botname: process.env.BOT_NAME || "QUEEN_KYLIE",
-  ownername: process.env.OWNER_NAME || "Sir Cylee ❤️🧸",
+  ownername: process.env.OWNER_NAME || "Cadillac Cylee ❤️🧸",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "true",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
