@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/lt92j5.mp4" alt="Queen_Kylie-V1 Banner" width="450" style="border-radius: 15px;"/>
+  <img src="https://files.catbox.moe/3q57x5.jpg" alt="Queen_Kylie-V1 Banner" width="450" style="border-radius: 15px;"/>
 </p>
 
  <p align="center">
