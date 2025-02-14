@@ -22,7 +22,7 @@ smd({
     replyMessage += `**👀Watchers:** ${repoData.watchers_count}\n`;
     replyMessage += `**🗃️Open Issues:** ${repoData.open_issues_count}\n`;
     replyMessage += `**💳License:** ${repoData.license ? repoData.license.name : 'No License'}\n`;
-    replyMessage += `**📂Repository URL:** [Click here]👸(https://github.com/errrbodyhatescylee/Queen_Kylie-V1)\n`;
+    replyMessage += `**📂Repository URL:** [Click here]👸(https://github.com/sircylee/Queen_Kylie-V1)\n`;
 
     await message.send(replyMessage);
   } catch (error) {
