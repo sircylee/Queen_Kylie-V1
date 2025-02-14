@@ -73,7 +73,7 @@ smd(
       await m.send("kylie is thinkin, hold your balls ❤️🧸 •°•° 🤔");
 
       // Define the API URL
-      const apiUrl = `https://api.giftedtech.my.id/api/search/bing?apikey=gifted&query=${encodeURIComponent(query)}`;
+      const apiUrl = `https://api.davidcyriltech.my.id/ai/gpt4?text=${encodeURIComponent(query)}`;
       const response = await fetch(apiUrl);
 
       if (!response.ok) {
@@ -149,7 +149,7 @@ smd({
       await m.bot.sendFromUrl(
         m.from,
         photoUrl,
-        "*Made by QUEEN_KYLIE-V2*:",
+        "*Made by QUEEN_KYLIE-V1*:",
         m,
         {},
         "image"
