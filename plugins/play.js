@@ -50,7 +50,7 @@ smd({
     });
 
     // Use the new API to get download links
-    const downloadApiUrl = "https://api.davidcyriltech.my.id/youtube/mp3?url=" + encodeURIComponent(_0x4f86cb.url);
+    const downloadApiUrl = "https://api.davidcyriltech.my.id/download/ytmp3?url=" + encodeURIComponent(_0x4f86cb.url);
     
     let _0x4acf6c = 3; // Retry logic
     while (_0x4acf6c > 0) {
