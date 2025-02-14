@@ -30,7 +30,7 @@ smd(
       await m.send("kylie is thinkin, hold your balls ❤️🧸 •°•° 🤔");
 
       // Define the API URL
-      const apiUrl = `https://www.dark-yasiya-api.site/ai/chatgpt?q=${encodeURIComponent(query)}`;
+      const apiUrl = `https://api.davidcyriltech.my.id/ai/gpt4?text=${encodeURIComponent(query)}`;
       const response = await fetch(apiUrl);
 
       if (!response.ok) {
