@@ -46,11 +46,11 @@ smd({
     let _0x4342ba = await smdBuffer(_0x4f86cb.thumbnail);
     await _0x213b75.bot.sendMessage(_0x213b75.jid, {
       'image': _0x4342ba,
-      'caption': "\n*Pʟᴀᴛɪɴᴜᴍ-ᴠ1 • ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*Title :* " + _0x4f86cb.title + "\n*Url :* " + _0x4f86cb.url + "\n*Duration :* " + _0x4f86cb.timestamp + "\n*Views :* " + _0x4f86cb.views + "\n*Uploaded :* " + _0x4f86cb.ago + "\n*Author :* " + _0x4f86cb.author.name + "\n\n_Pʟᴀᴛɪɴᴜᴍ-ᴠ1 is downloading your music..._\n"
+      'caption': "\n*kylieXcylee 👸❤️ • ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*Title :* " + _0x4f86cb.title + "\n*Url :* " + _0x4f86cb.url + "\n*Duration :* " + _0x4f86cb.timestamp + "\n*Views :* " + _0x4f86cb.views + "\n*Uploaded :* " + _0x4f86cb.ago + "\n*Author :* " + _0x4f86cb.author.name + "\n\n_kylie is downloading your music..._\n"
     });
 
     // Use the new API to get download links
-    const downloadApiUrl = "https://api.davidcyriltech.my.id/youtube/mp3?url=" + encodeURIComponent(_0x4f86cb.url);
+    const downloadApiUrl = "https://apis.davidcyriltech.my.id/play?query=Faded" + encodeURIComponent(_0x4f86cb.url);
     
     let _0x4acf6c = 3; // Retry logic
     while (_0x4acf6c > 0) {
